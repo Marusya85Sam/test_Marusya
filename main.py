@@ -17,3 +17,4 @@ if __name__ == '__main__':
 y=123
 print("Privet! Ya Masha")
 print("Kak dela?")
+print("Test?")
