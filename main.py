@@ -19,3 +19,4 @@ print("Privet! Ya Masha")
 print("Kak dela?")
 print("Test?")
 print("ttttttt?")
+y=1+2
